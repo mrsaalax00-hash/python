@@ -55,6 +55,6 @@ print("======================")
 
 
 # result
-print("You're finshide the Quiz")
-print(f"{name},Your Total Score is:{score}out of 3")
+print("You're Finished the Quiz")
+print(f"{name},Your Total Score is: {score}out of 3")
 
